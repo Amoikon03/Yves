@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.write('4.creer une application rationalisee (localement)')
 
 
-# df = pd.read_csv(r"C:\Users\YVES GRAH\Desktop\OK\fichier.csv")
+# df = pd.read_csv(GRAH/Expresso_chun_dataset.csv")
 
 # st.write(df.head(100))
 
