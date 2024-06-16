@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.write("Installez les packages nécessaires, importez vos données et effectuez la phase d'exploration de base des données")
 
 # Charger les données depuis un fichier CSV
-df = pd.read_csv("Expresso_chun_dataset.csv")
+df = pd.read_csv("GRAH/Expresso_chun_dataset.csv")
 
 # Afficher les premières lignes du DataFrame
 st.write(df.head())
